@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+The project could be further enhanced by adding interactivity to the form and links with Javascript, and by adding images to the menu to showcase the food.
